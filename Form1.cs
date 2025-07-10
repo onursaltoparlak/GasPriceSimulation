@@ -31,7 +31,7 @@ namespace Project15_GasPriceSimulation
         RequestUri = new Uri("https://gas-price.p.rapidapi.com/europeanCountries"),
         Headers =
                 {
-                    { "x-rapidapi-key", "a8c893afc7msh7f7ff35639d05acp1bc012jsn185c40f41dc2" },
+                    { "x-rapidapi-key", "" },
                     { "x-rapidapi-host", "gas-price.p.rapidapi.com" },
                 },
       };
